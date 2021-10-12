@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: 100px;
+    color: darkmagenta;
+    background-color: darkorange;
+    text-align: center;
+}
+.rojo{
+    color: red;
+    background-color: silver;
+}
+.verde{
+    color: green;
+    background-color: silver;
+}
+.azul{
+    color: blue;
+    background-color: silver;
+}
+.amarillo{
+    color: yellow;
+    background-color: silver;
+}
+.naranja{
+    color: orange;
+    background-color: silver;
+}
