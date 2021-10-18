@@ -23,14 +23,6 @@ body {
     background-image: linear-gradient(360deg,red,yellow,blue,green,orange,violet);
 }
 
-
-
-
-
-
-
-
-
 h1, h2, h3  {
     margin-top: 10px;
     background-color:  darkgoldenrod;
@@ -46,4 +38,11 @@ h1, .claseDos {
 
 #perritoSalchica {
     background-color: crimson;
+}
+
+.lorem {
+    color: cyan;
+    background-color: black;
+    font-size: 20px;
+
 }
